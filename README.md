@@ -10,3 +10,7 @@ Assignment 3 Part A: Word Meaning Comparison using LSTM
 Assignment 3 Part B: Word Meaning Comparison using Transformers
 
 Assignment 4: Google CHAII Challenge 
+
+Course webpage: https://www.cse.iitd.ac.in/~mausam/courses/col772/autumn2021/
+
+Overall Marks: 43.5/50
